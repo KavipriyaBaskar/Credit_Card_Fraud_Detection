@@ -1,11 +1,10 @@
-# CREDIT CARD FRAUD DETECTION ANALYSIS
+# CREDIT CARD FRAUD DETECTION ANALYSIS - 2023
 
 ## Objective
 
 The objective of this dataset is to build a robust model capable of detecting fraudulent credit card transactions. Credit card fraud is a significant financial crime that results in substantial monetary losses for financial institutions and consumers. Identifying fraudulent transactions accurately while minimizing false positives is crucial to maintaining trust and financial security.
-### Dataset Overview:
 
-### Dataset Overview:
+## Dataset Overview:
 
 - **Columns:**
   - `id`: Unique identifier for each transaction.
@@ -24,7 +23,7 @@ The objective of this dataset is to build a robust model capable of detecting fr
   - Medium Amount Transactions (<=16,000): 190K
   - Low Amount Transactions (< 8,000): 188K
 
-### Dashboard
+## Dashboard
 
 The dashboard provides visual insights into key metrics and patterns found in the dataset:
 
@@ -48,7 +47,11 @@ The dashboard provides visual insights into key metrics and patterns found in th
   - Summarizes key findings, offering a concise view of critical statistics and observations.
   - ![Summary](References/Summary.png)
 
-### Expected Outcomes:
+## Conclusion
+
+The credit card fraud detection project demonstrates the importance of leveraging advanced modeling techniques to tackle financial crime. By addressing key challenges such as data imbalance and incorporating performance optimization, the model can effectively distinguish between genuine and fraudulent transactions. The dashboard provides valuable insights, helping stakeholders monitor transaction patterns and implement better security measures. Ultimately, this project contributes to enhancing financial security and reducing potential losses due to fraud.
+
+## Expected Outcomes:
 
 - A high-performing fraud detection model that can help financial institutions mitigate risks.
 - Insights into transaction patterns that could improve security policies and fraud prevention strategies.
