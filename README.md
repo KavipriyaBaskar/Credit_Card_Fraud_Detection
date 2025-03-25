@@ -29,23 +29,23 @@ The dashboard provides visual insights into key metrics and patterns found in th
 
 - **Overview:**
   - Offers a snapshot of the entire dataset, highlighting transaction volume, fraud rate, and overall distribution.
-  - ![Overview](References/Overview.png)
+  - ![Overview](Resources/Overview.png)
 
 - **Transaction Analysis:**
   - Breaks down transactions by amount categories (high, medium, low) and reveals distribution trends.
-  - ![Transaction Analysis](References/Transaction%20Analysis.png)
+  - ![Transaction Analysis](Resources/Transaction%20Analysis.png)
 
 - **Value Analysis:**
   - Examines the financial impact by evaluating transaction values and spotting anomalies.
-  - ![Value Analysis](References/Value%20Analysis.png)
+  - ![Value Analysis](Resources/Value%20Analysis.png)
 
 - **Class Category Analysis:**
   - Highlights the distribution between fraudulent and non-fraudulent transactions.
-  - ![Class Category Analysis](References/Class%20Category%20Analysis.png)
+  - ![Class Category Analysis](Resources/Class%20Category%20Analysis.png)
 
 - **Summary:**
   - Summarizes key findings, offering a concise view of critical statistics and observations.
-  - ![Summary](References/Summary.png)
+  - ![Summary](Resources/Summary.png)
 
 ## Conclusion
 
